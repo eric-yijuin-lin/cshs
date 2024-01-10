@@ -1,0 +1,6 @@
+{
+    "sheetCredentialPath": "./configs/sheet-api-credential.json",
+    "workBook": "資訊課遊戲資料庫",
+    "cardTab": "抽卡-卡池",
+    "logTab": "抽卡-紀錄"
+}
